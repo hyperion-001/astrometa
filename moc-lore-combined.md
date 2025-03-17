@@ -1,6 +1,6 @@
 ---
 aliases: combined lore moc
-tags
+tags:
 - combined
 - moc
 - lore
